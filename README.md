@@ -117,6 +117,13 @@ print(f"The correct codeword is : " + " " .join(map(str,add1)))
 
 ![Screenshot 2025-04-08 111959](https://github.com/user-attachments/assets/8a588182-4405-4202-bf90-66df8bfa7527)
 
+## Manual calculation 
+![WhatsApp Image 2025-04-12 at 15 49 58_cc2f7e29](https://github.com/user-attachments/assets/2c9fa7d1-e2bc-4445-9543-83d43fff088a)
+![WhatsApp Image 2025-04-12 at 15 49 58_83044618](https://github.com/user-attachments/assets/037d7ade-77a7-4d1d-bbf9-325e932fe079)
+
+
+
+
 
 ## Results
 Thus the linear block code program runned using python compiler and parity matrix generated and error codeword corrected.
